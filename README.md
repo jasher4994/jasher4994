@@ -4,7 +4,7 @@ My names James.
 
 Here's some articles I've written.
 
-[Econometrics is the original data science] (https://medium.com/towards-data-science/econometrics-is-the-original-data-science-6725d3f0d843)
+testing [Econometrics is the original data science](https://medium.com/towards-data-science/econometrics-is-the-original-data-science-6725d3f0d843)
 
 
 
