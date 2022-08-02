@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+My names James. 
+
+Here's some articles I've written.
+
+https://medium.com/towards-data-science/econometrics-is-the-original-data-science-6725d3f0d843
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
