@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 My name is James. Data scientist, econometrician, developer, and writer. 
 
