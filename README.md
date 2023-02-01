@@ -10,5 +10,5 @@ Here's some articles I've written.
 
 - 🔭 I’m currently working on an app for writers - feel free to hit me up if you're looking to collaborate.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/james-alexander-asher/)
-- ⚡ Fun fact: I was scottish chess chamption numerous times - I gracefully retired at the age of 10 though. 
+- ⚡ Fun fact: I was Scottish chess chamption numerous times - I gracefully retired at the age of 10 though. 
 
