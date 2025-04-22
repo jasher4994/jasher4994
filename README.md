@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My name is James. Data scientist, econometrician, developer, and writer. 
+My name is James. Data scientist,developer, and writer. 
 
 Here's some articles I've written.
 
@@ -8,7 +8,6 @@ Here's some articles I've written.
 - [How to easily show matplotlib dynamically on your website](https://medium.com/towards-data-science/how-to-easily-show-your-matplotlib-plots-and-pandas-dataframes-dynamically-on-your-website-a9613eff7ae3)
 - [How to make a free, serverless, dashboard in minutes](https://medium.com/towards-data-science/how-to-make-a-free-serverless-interactive-dashboard-in-minutes-e6ce5a1088e0)
 
-- 🔭 I’m currently working on an app for writers - feel free to hit me up if you're looking to collaborate.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/james-alexander-asher/)
 - ⚡ Fun fact: I was Scottish chess chamption numerous times - I gracefully retired at the age of 10 though. 
 
